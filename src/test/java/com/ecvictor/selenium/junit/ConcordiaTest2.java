@@ -19,7 +19,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
 /**
- * Created by huao on 2017/6/2.
+ * Created by huao on 2017/6/2. william.hu
  */
 public class ConcordiaTest2 {
     private WebDriver driver;
